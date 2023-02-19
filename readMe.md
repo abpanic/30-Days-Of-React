@@ -142,10 +142,16 @@ git checkout -b exercise-solutions # `-b` creates the branch if it does not exis
 
 In your new branch, you can use files/folders to structure your solutions to daily exercises
 
+On Windows Machine you will need to install touch cli with following commands before proceeding:
+
+npm install touch-cli -g   
+
 ```bash
 mkdir -p solutions/day-01 # `-p` helps create nested directories
 touch solutions/day-01/level1.js # touch creates a file
 ```
+
+  
 
 ### Commit Exercise Solutions
 
