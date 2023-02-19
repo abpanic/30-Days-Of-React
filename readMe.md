@@ -144,7 +144,9 @@ In your new branch, you can use files/folders to structure your solutions to dai
 
 On Windows Machine you will need to install touch cli with following commands before proceeding:
 
+```bash
 npm install touch-cli -g   
+```
 
 ```bash
 mkdir -p solutions/day-01 # `-p` helps create nested directories
